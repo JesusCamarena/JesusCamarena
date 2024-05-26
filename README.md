@@ -5,25 +5,41 @@ Soy el fundador del proyecto Digital Dynamic Design (DiDyDe). Desde 2014, me he 
 
 A través de mi página web, comparto mi conocimiento y experiencia en el campo de la electrónica, ofreciendo acceso a mi material de clases y proyectos en general.
 
-## Sobre mí
+## Sobre mí 📚
 
 Mi nombre es Jesús Daniel Garza Camarena y me especializo en diseño de hardware para sistemas embebidos. Disfruto trabajar en proyectos educativos y actualmente colaboro en proyectos de investigación y desarrollo industrial en el campo de la electrónica.
 
-### Proyectos y Colaboraciones
+### Proyectos y Colaboraciones 🤝
 
 Me encanta trabajar en proyectos relacionados con la educación y el desarrollo de habilidades en electrónica. Aquí hay algunos de mis proyectos y colaboraciones actuales:
 
-- **Microcontroladores**: 
-- **Sistemas Digitales**: 
+- **Microcontroladores**: Proyectos de diseño y programación de microcontroladores.
+- **Sistemas Digitales**: Desarrollo y enseñanza de sistemas digitales.
 - **Docencia**: Imparto cursos de Sistemas Digitales y Microcontroladores en la FIME - UANL.
 
-### Comunidad y Contribuciones
+### Tecnología y Herramientas 🛠️
+
+Estas son algunas de las herramientas y tecnologías que utilizo regularmente en mi trabajo:
+
+- **Herramientas de EDA**: Proteus Design Suite, EasyEDA, Altium, GitHub
+- **Herramientas IDE**: ISPlever Lattice Semiconductor, Arduino IDE, Microchip Studio, Quartus Prime Altera
+
+### Lenguajes más utilizados 👓
+- **De programación**: 
+  - Assambler ⭐⭐(2/5)
+  - C         ⭐⭐⭐⭐(4/5)
+  - Python    ⭐⭐(2/5)
+- **Desarrollo de Hardware**:
+  - ABEL - HDL ⭐⭐⭐⭐(4/5)
+  - VHDL       ⭐⭐⭐(3/5)
+  - Verilog    ⭐⭐(2/5)
+
+<!--### Comunidad y Contribuciones 🌐
+
+Soy un contribuyente constante en la comunidad de desarrollo de sistemas embebidos y electrónica. Aquí hay algunas de las organizaciones y proyectos con los que colaboro:-->
 
 
-### Agradecimientos
-
-
-### Conéctate Conmigo
+### Conéctate Conmigo 📱
 
 Puedes encontrarme y seguir mis publicaciones y contribuciones en las siguientes plataformas:
 
@@ -31,14 +47,9 @@ Puedes encontrarme y seguir mis publicaciones y contribuciones en las siguientes
 - [Jesús Camarena en Twitter](#)
 - [Jesús Camarena en LinkedIn](#)
 
-### Tecnología y Herramientas
 
-Estas son algunas de las herramientas y tecnologías que utilizo regularmente en mi trabajo:
 
-- **Herramientas de EDA**: Proteus Design Suite, EsayEDA, Altium, GitHub
-- **Heeramientras IDE**: ISPlever Lattice Semiconductor, Arduino IDE, Microchip Studio, Quartus Prime Altera
-
-### Artículos y Publicaciones
+<!--### Artículos y Publicaciones 📝
 
 Estos son algunos de mis artículos publicados, donde comparto ideas, resúmenes y hallazgos de mi trabajo reciente en desarrollo electrónico:
 
@@ -47,9 +58,15 @@ Estos son algunos de mis artículos publicados, donde comparto ideas, resúmenes
   - Texto, Fuentes
   - Rompecabezas de Codificación
 
-### Apoya mi Trabajo
+### Agradecimientos 🙏
 
-Si deseas apoyar mi trabajo y mis artículos, puedes hacerlo a través de las siguientes plataformas:
+
+### Apoya mi Trabajo 💖
+
+Si deseas apoyar mi trabajo y mis artículos, puedes hacerlo a través de las siguientes plataformas:-->
+
+
+
 
 
 <!--
