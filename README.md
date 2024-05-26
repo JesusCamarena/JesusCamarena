@@ -1,5 +1,5 @@
-## Hi there 👋
-# ¡Hola! Soy Jesús Camarena  :sunglasses:
+## Zuup 👋
+# ¡Hola! Soy el Maestro Jesús Camarena  :sunglasses:
 
 Soy el fundador del proyecto Digital Dynamic Design (DiDyDe). Desde 2014, me he dedicado al diseño electrónico y actualmente soy profesor de ingeniería en programas relacionados con la electrónica digital, programación de microcontroladores y diseño electrónico a nivel licenciatura. Además, desarrollo proyectos de investigación e industriales relacionados a la electrónica.
 
