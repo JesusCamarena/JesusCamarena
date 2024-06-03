@@ -24,15 +24,16 @@ Estas son algunas de las herramientas y tecnologías que utilizo regularmente en
 - **Herramientas de EDA**: Proteus Design Suite, EasyEDA, Altium, GitHub
 - **Herramientas IDE**: ISPlever Lattice Semiconductor, Arduino IDE, Microchip Studio, Quartus Prime Altera
 
-### Lenguajes más utilizados 👓
+### Lenguajes más utilizados en las clases que imparto 👓
 - **De programación**: 
-  - Assambler ⭐⭐(2/5)
-  - C         ⭐⭐⭐⭐(4/5)
-  - Python    ⭐⭐(2/5)
+  - Assambler
+  - C        
+  - Micro Python
+  - Arduino
 - **Desarrollo de Hardware**:
-  - ABEL - HDL ⭐⭐⭐⭐(4/5)
-  - VHDL       ⭐⭐⭐(3/5)
-  - Verilog    ⭐⭐(2/5)
+  - ABEL - HDL
+  - VHDL      
+  - Verilog   
 
 <!--### Comunidad y Contribuciones 🌐
 
