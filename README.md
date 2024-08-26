@@ -1,7 +1,7 @@
 ## Zuup 👋
-# ¡Hola! Soy el Maestro Jesús D. Garza Camarena  :sunglasses:
+# ¡Hola! Soy el Maestro Jesús D. Garza Camarena  :ninja:
 
-Soy el fundador del proyecto Digital Dynamic Design (DiDyDe). Desde 2014, me he dedicado al diseño electrónico y actualmente soy profesor de ingeniería en programas relacionados con la electrónica digital, programación de microcontroladores y diseño electrónico a nivel licenciatura. Además, desarrollo proyectos de investigación e industriales relacionados a la electrónica.
+Soy el creador del proyecto Digital Dynamic Design (DiDyDe). Desde 2014, me he dedicado al diseño electrónico y actualmente soy profesor de ingeniería en programas relacionados con la electrónica digital, programación de microcontroladores y diseño electrónico a nivel licenciatura. Además, desarrollo proyectos de investigación e industriales relacionados a la electrónica.
 
 A través de mi página web, comparto mi conocimiento y experiencia en el campo de la electrónica, ofreciendo acceso a mi material de clases y proyectos en general.
 
@@ -15,6 +15,7 @@ Me encanta trabajar en proyectos relacionados con la educación y el desarrollo 
 
 - **Microcontroladores**: Proyectos de diseño y programación de microcontroladores.
 - **Sistemas Digitales**: Desarrollo y enseñanza de sistemas digitales.
+- **Diseño de Circuitos Impresos (PCB)**: Diseño y ensamble de tarjetas electrónicas educativas e industriales
 - **Docencia**: Imparto cursos de Sistemas Digitales y Microcontroladores en la FIME - UANL.
 
 ### Tecnología y Herramientas 🛠️
