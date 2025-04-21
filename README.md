@@ -7,7 +7,7 @@ A través de mi página web, comparto mi conocimiento y experiencia en el campo 
 
 ## Sobre mí 📚
 
-Mi área de especialidad es el diseño de hardware para sistemas embebidos. Disfruto trabajar en proyectos educativos y actualmente colaboro en proyectos de investigación y desarrollo industrial en el campo de la electrónica.
+Mi área de especialidad es el diseño de hardware para sistemas embebidos. Disfruto trabajar en proyectos académicos y actualmente colaboro en proyectos de investigación y desarrollo industrial en el campo de la electrónica.
 
 ### Proyectos y Colaboraciones 🤝
 
