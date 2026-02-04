@@ -1,4 +1,4 @@
-🌎 Read in other languages: [Español](README_es.md)
+🌎 Leer en otros idiomas: [Español](README_es.md)
 
 # Hello! I’m Jesús D. Garza Camarena 😎  
 
