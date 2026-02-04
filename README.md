@@ -36,8 +36,9 @@ These are some of the tools and technologies I regularly use in my work:
 - **Hardware Development**:  
   - ABEL - HDL  
   - VHDL  
-  - Verilog  
-
+  - Verilog
+  
+🌎 Read in other languages: [Español](README_es.md)
 <!--### Community and Contributions 🌐
 
 I am a constant contributor to the embedded systems and electronics development community. Here are some of the organizations and projects I collaborate with:-->
