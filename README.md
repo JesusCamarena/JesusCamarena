@@ -1,5 +1,6 @@
-## Zuup 👋  
-# Hello! I’m Professor Jesús D. Garza Camarena 😎  
+🌎 Read in other languages: [Español](README_es.md)
+
+# Hello! I’m Jesús D. Garza Camarena 😎  
 
 I am the creator of the Digital Dynamic Design (DiDyDe) project. Since 2014, I have been dedicated to electronic design, and I am currently an engineering professor in programs related to digital electronics, microcontroller programming, and electronic design at both undergraduate and master’s levels. In addition, I develop research and industrial projects related to electronics.
 
@@ -38,7 +39,7 @@ These are some of the tools and technologies I regularly use in my work:
   - VHDL  
   - Verilog
   
-🌎 Read in other languages: [Español](README_es.md)
+
 <!--### Community and Contributions 🌐
 
 I am a constant contributor to the embedded systems and electronics development community. Here are some of the organizations and projects I collaborate with:-->
